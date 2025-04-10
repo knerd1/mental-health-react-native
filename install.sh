@@ -20,3 +20,4 @@ npx expo install react-native-incall-manager
 npx expo install react-native-svg
 npx expo install @react-native-community/netinfo
 npx expo install @notifee/react-native
+npm install
