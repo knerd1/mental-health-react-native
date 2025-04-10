@@ -1,0 +1,22 @@
+{
+	"extends": "expo/tsconfig.base",
+	"compilerOptions": {
+		"strict": true,
+		"moduleResolution": "bundler", // Add this to resolve @react-navigation/native types
+		"module": "esnext", // Ensure modern module system
+		"target": "esnext", // Target modern JavaScript
+		"jsx": "react-native", // Explicitly set for React Native
+		"esModuleInterop": true, // Improve module interop
+		"skipLibCheck": true,
+		"paths": {
+			"@/*": ["./*"]
+		}
+	},
+	"include": [
+		"**/*.ts",
+		"**/*.tsx",
+		".expo/types/**/*.ts",
+		"expo-env.d.ts",
+		"nativewind-env.d.ts"
+	]
+}
