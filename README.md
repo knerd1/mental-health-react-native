@@ -36,7 +36,7 @@ Featured Packages:
 
 Want to build your own AI-powered chat, audio, video, and feeds experience like this?
 
-👉 [Click here to create your free maker account on Stream](https://getstream.io/maker-account/?utm_source=youtube&utm_medium=referral&utm_campaign=simon)
+👉 [Click here to create your free maker account on Stream](https://getstream.io/maker-account/)
 
 ---
 
